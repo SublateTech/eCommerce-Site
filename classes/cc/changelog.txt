@@ -1,0 +1,55 @@
+09/10/2004 - version 1
+09/20/2004 - version 1.1		updated the POST function
+09/24/2004 - version 1.2		now is possible pass ONLY one authorization type
+11/23/2004 - version 1.2.1		fixed few bugs in the authorization for PNP
+12/08/2004 - version 1.2.2		added a more human authorization type
+02/22/2005 - version 1.2.3  	fixing the retrieving error for authorize.net
+								tested authorize.net
+								fixed fields name
+								added a more human authorization mode
+								retrieving the authorization code from authorize.net
+03/05/2005 - version 1.2.4		added user IP
+								fixed some curl errors
+								added a parameter for curl - CERT_FILE - path for the crt certificate
+									(function set_crt)
+								added phone e fax to the customer information
+								added some extra 'default' fields for authorize.net
+								added a better error report
+								if a value is set to NULL, that parameter will not be passed to the gateway
+03/14/2005 - version 1.2.4.1	moved the IP parameter from USER to CUSTOMER
+								removed a debug print
+								fixed a variable name
+								cleaned code
+03/14/2005 - version 1.2.5		added two more gateways:
+									planetpay
+									quickcommerce
+04/03/2005 - version 1.2.6		added iBill gateway
+								modified set_order function
+								added a get_transactionnum function (usefull for some gateways)
+07/31/2005 - version 1.2.6.1	added more plugnpay variables
+08/02/2005 - version 1.2.6.2	fixed a bug for the expiration date when the card is only marked
+								modified the succesion that the informations are POSTED to the gateway
+08/02/2005 - version 1.2.6.3	fixed the shipping address
+09/22/2005 - version 1.2.7		added paynet
+09/22/2005 - version 1.2.7.1	added and finised currency
+								added a parameter to force the method to use to process (curl, curl_ext, fsockopen)
+09/25/2005 - version 1.2.7.2	new function set_valuta
+09/26/2005 - version 1.2.7.3	fixed paynet charge only function
+10/10/2005 - version 1.2.7.4	added function get_gateway and _set_gateway to retrieve the data for the gateway
+10/17/2005 - version 1.2.7.5	fixed paynet cced extra setting problem
+10/17/2005 - version 1.2.7.6	fixed minor problem with paynet and plug n pay
+01/11/2006 - version 1.3		added skipjack as new gateway
+01/25/2006 - version 1.3.0.1	tested and finished skipjack gateway
+02/12/2006 - version 1.3.1		added more functionality for viaklix  (Nathan Hyde)
+								improved set_error function to include the gateway error  (Nathan Hyde)
+
+
+supported API:
+	- Plug and Pay	-	finish
+	- Autorize.net	-	finish
+	- paynet		-	finish
+	- skipjack		-	finish
+	- ViaKlix		-	finish
+	- iBill			-	needs testing
+	- planetpay		-	needs testing
+	- quickcommerce	-	needs testing

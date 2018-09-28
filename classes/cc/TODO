@@ -1,0 +1,5 @@
+TODO:
+	- insert more gateways/API (PAYPAL?)
+	- support:  http://www.billthru.com/  (I.E.:http://www.zend.com/codex.php?id=1342&single=1)
+	- implement GET_ANSWER to return an array
+	- give a look at http://snpwebdesign.com/easyauthnet/easyauthnetdocs.htm for auth.net

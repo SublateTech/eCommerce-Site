@@ -1,0 +1,127 @@
+#chromemenu{
+width: 100%;
+background: url(../images/SigTop.gif) bottom repeat-x; /*Theme Change here url(..\images\back1.gif)*/
+}
+
+#chromemenu:after{ /*Add margin between menu and rest of content in Firefox*/
+content: "."; 
+display: block; 
+height: 0; 
+clear: both; 
+visibility: hidden;
+}
+
+#chromemenu ul li{
+border: 0px solid #ccc; 
+border-bottom: 0px;
+padding-left: 0px;
+padding-bottom: 0px;
+padding-top: 0px;
+margin-left: 0px;
+margin-right:0px;
+margin-top:0px;
+float: left;
+font: bold 12px Verdana;
+display: inline;
+height:25px;
+
+}
+
+#chromemenu ul {
+display: inline;
+}
+
+#cart {
+text-align:right;
+display: inline;
+}
+
+#chromemenu ul li a{
+font-family:sans-serif;
+font-size: 90%;
+float: left;
+/*color: #cc0066;*/
+/*color:#0099FF; */
+line-height:20px;
+color:#5D6280; /*E77B19; Naraja*/
+/*color: #0068D2; ff7700;*/
+font-weight: bold;
+padding: 4px 10px 0px 10px;
+text-decoration: none;
+background: url(../images/divider1.gif) bottom right no-repeat; /*Theme Change here*/ 
+}
+
+
+
+#mail {
+float: left;
+/*color: #cc0066;*/
+/*color:#0099FF; */
+line-height:20px;
+color:#F33D0E; /*E77B19; Naraja*/
+/*color: #0068D2; ff7700;*/
+font-weight: bold;
+padding: 4px 15px 0px 15px;
+text-decoration: none;
+background: url(../images/mail.gif) bottom right no-repeat; /*Theme Change here*/ 
+}
+
+#chromemenu ul li a:hover{
+/*background-color: #F0F0F0;*/
+color:#0099FF;
+/*background: url(..\images\back_top_gray.gif) center repeat-x; */
+}
+
+#chromemenu ul  li a[onMouseover]:after{ /*HTML to indicate drop down link*/
+/*content: " v";*/
+/*content: " " url(../images/banderaesp.gif); /*uncomment this line to use an image instead */
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv{
+position: absolute;
+top: 0;
+border: 1px solid #BBB; /*Theme Change here*/
+border-bottom-width: 0;
+/* font:normal 12px Verdana; */
+line-height:15px;
+z-index:100;
+background-color: white;
+width: 200px;
+visibility: hidden;
+filter: progid:DXImageTransform.Microsoft.Shadow(color=#CACACA,direction=135,strength=6); /*Add Shadow in IE. Remove if desired*/
+filter:alpha(opacity=90);
+cursor:hand;
+
+}
+
+.dropmenudiv a{
+	text-align: left;
+	width: 100%;
+	display: block;
+	text-indent: 3px;
+	border-bottom: 1px solid #BBB;
+	padding: 2px 0;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: Arial, sans-serif;
+	font-size: 8pt;
+	line-height:14pt;
+	color: #000099;
+}
+
+.dropmenudiv a:visited{
+/*background-color: #F0F0F0;*/
+color: #6633FF;
+
+/*background: url(..\images\back1_1.gif) center repeat-x; */
+}
+
+.dropmenudiv a:hover{ /*Theme Change here*/
+text-align: left;
+background-color: #F0F0F0;
+text-decoration: none;
+color: #cc0066;
+}
+

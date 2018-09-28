@@ -1,0 +1,1792 @@
+bibEC_processcard LOGArray==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3002 : The credit card number is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : The transaction resulted in an AVS mismatch. The address provided does not match billing address of cardholder.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : The merchant does not accept this type of credit card.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 9201 : Impossible to connect to host: secure.authorize.net
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3002 : The card code is invalid.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3002 : A duplicate transaction has been submitted.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3001 : This transaction has been declined.
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+Array==>ERROR 3101 : ERROR : 0 - !DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">

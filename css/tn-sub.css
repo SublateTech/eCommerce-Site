@@ -1,0 +1,211 @@
+/* Left Column, div#extra 
+==============================================================================================  */
+#extra {
+	padding: 0;
+	/*width: 100%;*/
+	margin: 0px;
+	padding-top:0px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;
+	color: #333;
+	font-size: 0.95em;
+	text-align:left;
+}
+    #extra h2 {font-size: 1.1em; font-weight: bold; margin: 0 0 1em;}
+    #extra div.section {margin-top: 1em; padding: 10px 20px 10px 10px;}
+
+
+
+/* Side Bar Modules
+===========================================================================================================  */
+/* Right Contents */
+#extra div.sb-article { 
+	text-align:left; 
+	padding-right:2.5px; 
+	padding-left:2.5px; 
+	margin-top:2.5px; 
+	margin-left:2.5px; 
+	margin-right:2.5px; 
+	padding-top:5px;  
+	padding-bottom:5px;  
+	margin-bottom:2.5px; 
+	border:1px solid #ccc;  
+	background: url(../pix/fade-grey.gif) repeat-x top; 
+	
+		}
+div.sb-article b.cn {background-image: url(../pix/corners/s-bord-silver.gif);} 
+* html div.sb-article b.cn {background-image: url(../pix/corners/s-bord-silver.gif);}
+
+
+
+#extra div.sb-tabmenu { 	
+					text-align:left;
+					line-height:20px; 
+					margin-left:2.5px; 
+					margin-right:0px;
+					margin-bottom:-1px;
+					border:1px solid #4186CB;
+					padding-right:0px;  
+					padding-left:5px;  
+					width:99%;
+					background-color: #EFEFEF
+					 	}
+div.sb-tabmenu b.cn {background-image: url(../pix/corners/s-bord-blue1.gif);}
+* html div.sb-tabmenu b.cn {background-image: url(../pix/corners/s-bord-blue1.gif);}
+ 	 div.sb-tabmenu h1 { 		  font-weight:bold;
+	 							  height:20px;
+								  font-style:normal; 
+								  margin:0px; 
+								  color: #fff; 
+								  background: url(../images/back_top_blue1.gif) repeat-x top; 
+								  width:100%; 
+								  padding: 3 10 3 10; 
+								  display: block;
+								  font: bold 11px Verdana;  }
+
+
+							  								  
+#extra div.sb-menu {
+					text-align:left;
+					line-height:15pt; 
+					margin-left:2.5px; 
+					margin-right:2.5px;
+					margin-bottom:-1px;
+					border:1px solid #ccc;
+					padding:2px;
+					display: block;
+					 background-color: #EFEFEF  }
+
+div.sb-menu b.cn {background-image: url(../pix/corners/s-bord-silver.gif);}
+* html div.sb-menu b.cn {background-image: url(../pix/corners/s-bord-silver.gif);}
+
+/* -- Module Headers -- */
+    div.sb-menu h3 {text-align:left; font-size:1.15em;font-weight:normal;margin-bottom:0em}
+    div.sb-menu h3 a.goto {color:#339900}
+   /* div.sb-menu a.action {color:#000} */
+    div.sb-menu a.action {color:#4186CB; }
+	div.sb-menu a.action:hover {color:#0099FF}
+	div.sb-menu h3 a.action:hover {text-decoration:none}
+	
+	div.s h4   			{font: bold 95% Arial, Helvetica, sans-serif;
+						text-align:justify;
+						text-decoration:none;
+ 						color: #0083D7;
+						 margin: 0;
+						 padding: 7px 0 7px 0;
+						 border: 0px;
+						 background: url(../images/spacer1.gif) top repeat-x;
+						 
+						 }
+	div.s h4 a.action:hover {	color: #ff0033; color: #cc0066; text-decoration:underline; font-weight:bold; }
+	
+	    /* Module Disclosure Toggling */
+    div.sb-menu h3.sb-mtitle {text-indent:-12px;padding-left:12px}
+    #extra div.open h3.sb-mtitle a.action {background: url(../pix/books.gif) 0 -35px no-repeat;}
+    div.sb-menu h3.sb-mtitle a.action {padding-left: 23px; background: url(../pix/books.gif) 0 -1px no-repeat;}
+    div.sb-menu h3 a.action:hover {text-decoration:none}
+/*	div.contents div.s h4 a {padding-left: 20px; background: url(../pix/book_open1.gif) 0 0px no-repeat;}*/
+	 
+
+#extra div.sb-module {
+	margin-top:2.5px; 
+	padding-left:5px; 
+	margin-left:2.5px;  
+	margin-right:0px; 
+	margin-bottom: 0px;
+	border:1px solid #ccc;
+	padding-top:5px; 
+	padding-bottom:5px; 
+	background: url(../pix/fade-grey.gif) repeat-x top;
+	
+	}
+	
+div.sb-module b.cn {background-image: url(../pix/corners/s-bord-silver.gif);}
+* html div.sb-module b.cn {background-image: url(../pix/corners/s-bord-silver.gif);}
+
+    /* -- Module Headers -- */
+    div.sb-module h3 {font: bold 95% Arial, Helvetica, sans-serif; font-weight:normal;margin-bottom:0em}
+    #extra div.open h3 {margin-bottom:1em}
+    div.sb-module h3 a.goto {color:#339900}
+    div.sb-module a.action {color:#000}
+    
+    /* Module Disclosure Toggling */
+    h3.sb-mtitle {text-indent:-12px;padding-left:12px}
+    div.open h3.sb-mtitle a.action {background: url(../pix/icn-arrow-black.gif) 0 -35px no-repeat;}
+    h3.sb-mtitle a.action {padding-left: 12px; background: url(../pix/icn-arrow-black.gif) 0 3px no-repeat;}
+    div.sb-module h3 a.action:hover {text-decoration:none}
+
+    /* Module Ajax Areas */
+    #extra div.contents {padding:0;margin:0;display:none}
+    #extra div.open div.contents {display:block}
+    #extra div.contents div.s {padding:0;margin:0;width:100%;float:left;}
+    div.sb-module span.loading {display:block;text-align:center;width:100%;padding:1em 0}
+    
+    /* For divLink */
+    div#sb-whosblogging div.contents:hover, div#sb-technoblog div.contents:hover,div#sb-tags div.contents:hover   {cursor:pointer}
+    
+    /* More Links */
+    div.sb-module p.more {padding-top:1em;clear:both;text-align:right}
+    div.sb-module p.more a {color:#339900}
+
+
+
+
+
+
+
+    
+/* Comparative tables 
+================================================================================================*/
+.table1, .table2 {background-color:#EFEFEF;  
+		/*background: url(../images/back_top_gray1.gif) bottom repeat-x; */
+		background: url(../images/spacer1.gif) bottom repeat-x;
+		margin: 0px;
+		padding:0 px;
+		height: 30px; }
+					
+
+.table2 h1 {	color: #F33D0E;
+			font: bold 10px Verdana;
+			background: url(../images/divider1.gif) bottom right repeat-y;
+			padding: 0px 7px 0px 7px;			
+			text-align:center;		}
+
+.table1 h1 {	color: #F33D0E;
+			font: bold 10px Verdana;
+		/*	background: url(../images/divider1.gif) bottom right repeat-y;*/
+			padding: 0px 7px 0px 7px;			
+			text-align:center;		}
+
+
+.cells { 				 color: #0083D7;
+						 margin: 0;
+						 padding: 0px 7px 0px 7px;
+						 border: 0px;
+						 background: url(../images/divider1.gif) bottom right repeat-y;
+						 background-color: #EFEFEF;
+						  }
+.cells1 { 				 color: #0083D7;
+						 margin: 0;
+						 padding: 0px 7px 0px 7px;
+						 border: 0px;
+						 /*background: url(../images/divider1.gif) bottom left repeat-y;*/
+						 
+						 background-color: #EFEFEF;
+						  }
+						
+.cells1 h1, .cells h1 {
+	color: #0083D7;
+	font: bold 10px Verdana;
+/*	background: url(../images/spacer1.gif) bottom repeat-x;*/
+	
+	margin:0;
+	padding:0; }
+
+.cells img {
+			background-color: #EFEFEF;
+			vertical-align:middle;
+			 
+			}
+.cells h3 {color: #fff; background-image:url("../Spyware/NoAdware.jpg") no-repeat;

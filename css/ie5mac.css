@@ -1,0 +1,98 @@
+* {line-height:1}
+
+#search a.action, #searchoptions a.action {width: 5em; text-align: left;}
+html body #search a.action {top: 18px;}
+
+#member ul {margin-top: -1.66em;}
+#masthead .nav {margin-top: 5px;}
+
+#memberdata, #stranger, #fromtechnorati, #recentlinks .box, #claiming .box {clear: none;}
+#recentlinks .box .search {width: 220px;}
+body p.rank {margin: 0.25em 0;}
+
+html body #search a.action {top: 14px;}
+html body.home #search a.action {top: 18px;}
+html body #searchoptions {padding-top: 10px; padding-bottom: 9px;}
+html body.home #searchoptions {padding-top: 14px; padding-bottom: 0;}
+body.home .wu-sub {position: relative; z-index: -1;}
+
+body.home #technoblog h2 {margin-bottom: -0.66em;}
+
+body b.bl, body b.br {position: relative; z-index: 10000 !important;
+  top: -1px; clear: left;}
+b.tr {border-width: 0 0 1px 1px;}
+b.tl {border-width: 0 1px 1px 0;}
+b.bl {float: left; left: -1px; border-width: 0 1px 1px 0;}
+b.br {float: right; right: -1px; border-width: 0 0 1px 1px;}
+
+#member b.bl {margin-left: -11px; margin-bottom: -11px;}
+#member b.br {margin-right: -11px; margin-bottom: -6px;}
+#signin b.bl {margin-left: -11px; margin-bottom: -11px;}
+#signin b.br {margin-right: -11px; margin-bottom: -11px;}
+#signin #signin-cancel {position: static; width: 100%;
+  text-align: right;}
+#masthead b.br {margin-top: -10px; margin-right: -1px;}
+#memberdata b.bl, #stranger b.bl {margin-left: -1px; margin-bottom: -11px;}
+#memberdata b.br, #stranger b.br {margin-bottom: -1px; margin-right: -1px;}
+body.home #search b.bl {margin-left: -11px; top: 7px;}
+body.home #search b.br {margin-right: -61px; top: 7px;}
+body.home #searchoptions b.bl {margin-left: -1px; margin-bottom: -11px;}
+body.home #searchoptions b.br {margin-right: -1px; margin-bottom: -1px;}
+#whatsup b.bl {margin-left: -1px; margin-top: -9px; margin-bottom: -2px;}
+#whatsup b.br {margin-right: -1px; margin-top: -9px; margin-bottom: -2px;}
+#whatsup #wu-tabs b.tl {margin-left: 0; left: 0; background-image: url(..\pix\corners\wu-tab-l.gif);}
+#whatsup #wu-tabs b.tr {margin-right: 0; right: 0; background-image: url(..\pix\corners\wu-tab-r.gif);}
+body.home #whatsup p.more {position: relative; clear: left;
+  text-align: right; margin-top: -2em; top: 1.25em;}
+#search b.bl {margin-left: -11px; margin-top: 2px;}
+#search b.br {margin-right: -11px; margin-top: -10px;}
+#searchoptions b.bl {margin-left: -11px; margin-bottom: -11px;}
+#searchoptions b.br {margin-right: -22px; margin-bottom: -11px;}
+
+#main #searchoptions b.bl {margin-left: -10px; margin-bottom: -11px;}
+#main #searchoptions b.br {margin-right: -11px; margin-bottom: -11px;}
+
+#sponsors b.bl {left: -11px; top: 1px;}
+#sponsors b.br {right: -11px; top: 1px;}
+#photos b.bl {left: -5px;}
+#photos b.br {right: -5px;}
+#pages b.bl {margin-left: -13px; margin-top: -3px;}
+#pages b.br {margin-right: -13px; margin-top: -10px;}
+#recent b.bl, #recentposts b.bl, #tagsposts b.bl {left: -10px; top: -9px;}
+#recent b.br, #recentposts b.br, #tagsposts b.br {right: -10px; top: -9px;}
+#recenttags b.cn {background-image: url(..\pix\corners\bord-green.png) !important;}
+#recentlinks .box b.bl {margin-left: -10px; margin-bottom: -10px;}
+#recentlinks .box b.br {margin-right: -10px; margin-bottom: -10px;}
+
+.tabs b.bl {left: 0;}
+.tabs b.br {right: 0;}
+
+.tabs li, .tabs a, .nav li, .nav a {float: left;}
+#member .nav li, #member .nav a, #footer .nav li, #footer .nav a {float: none;}
+#sorter li, #sorter a {float: none;}
+#so-tabs .nav {padding-top: 0.33em;}
+#so-tabs .nav a {padding-top: 0.5em;}
+
+#masthead .nav .activetab {margin-top: -8px !important;}
+#masthead .nav .activetab a {padding-top: 8px !important;}
+#masthead .nav a {padding-top: 0 !important;}
+#masthead .nav {height: 40px !important; top: 10px !important;}
+
+#so-tabs .nav .activetab {margin-top: -8px;}
+#so-tabs .nav .activetab a {padding-top: 8px;}
+
+
+
+#wu-tabs {padding-bottom: 5px;}
+#wu-tabs p {margin-top: 0.125em;}
+#wu-tabs .nav .activetab {padding-top: 5px; margin-top: -5px;}
+#wu-tabs .nav .activetab a {padding-top: 8px;}
+
+
+
+#technoblog .photo {margin-left:60px;margin-top:-4px}
+#technoblog div.box#pages {border:0;background:none}
+#technoblog div.box#pages b {display:none} 
+
+
+.latest li {height:auto !important}

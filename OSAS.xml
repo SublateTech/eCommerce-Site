@@ -1,0 +1,94 @@
+<job version="4.2">
+<syncjob>
+<abortonerror abort="no" />
+<fkcheck check="no" />
+<source>
+<host>TheBeast</host>
+<user>signatv9_sa</user>
+<pwd>sa</pwd>
+<port>3306</port>
+<ssl>0</ssl>
+<sslauth>0</sslauth>
+<clientkey>(null)</clientkey>
+<clientcert>(null)</clientcert>
+<cacert>(null)</cacert>
+<cipher>(null)</cipher>
+<charset>[default]</charset>
+<database>signatv9_OSAS</database>
+</source>
+<target>
+<host>www.sigfund.com</host>
+<user>signatv9_sa</user>
+<pwd>sa</pwd>
+<port>3306</port>
+<ssl>0</ssl>
+<sslauth>0</sslauth>
+<clientkey>(null)</clientkey>
+<clientcert>(null)</clientcert>
+<cacert>(null)</cacert>
+<cipher>(null)</cipher>
+<charset>[default]</charset>
+<database>signatv9_OSAS</database>
+</target>
+<tables all="no">
+<table>
+<name>`Brochure`</name>
+<columns all="yes" />
+</table>
+<table>
+<name>`Customer`</name>
+<columns all="yes" />
+</table>
+<table>
+<name>`OrderDetail`</name>
+<columns all="no">
+<column>`ID`</column>
+<column>`CustomerID`</column>
+<column>`Teacher`</column>
+<column>`Student`</column>
+<column>`ProductID`</column>
+<column>`Quantity`</column>
+<column>`Tax`</column>
+<column>`QuantityInvoiced`</column>
+<column>`Seq`</column>
+<column>`Comment`</column>
+<column>`CompanyID`</column>
+</columns>
+</table>
+<table>
+<name>`Orders`</name>
+<columns all="no">
+<column>`ID`</column>
+<column>`CustomerID`</column>
+<column>`Teacher`</column>
+<column>`Student`</column>
+<column>`Prize`</column>
+<column>`Nro_Items`</column>
+<column>`Retail`</column>
+<column>`Collected`</column>
+<column>`Tax`</column>
+<column>`Printed`</column>
+<column>`Date`</column>
+<column>`Phone`</column>
+<column>`CompanyID`</column>
+</columns>
+</table>
+<table>
+<name>`Product`</name>
+<columns all="yes" />
+</table>
+<table>
+<name>`Product_by_Brochure`</name>
+<columns all="yes" />
+</table>
+<table>
+<name>`Rep`</name>
+<columns all="yes" />
+</table>
+<table>
+<name>`rep_charges`</name>
+<columns all="yes" />
+</table>
+</tables>
+</syncjob>
+</job>

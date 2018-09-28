@@ -1,0 +1,64 @@
+
+    Hippo_Ajax_Form Class 1.0
+    ------------------------------------------------------------------------
+
+    Hippo_Ajax_Form Class provide a easy way to create Ajax Form element,
+    and seperate index/PHP/JavaScript in 3 files.
+    
+    Functions:
+    <> supporting Input Text/Select Control/CheckBox/Radio Button/TextArea Controls .
+    <> using POST to submit FORMs.
+    <> assign specific DIV layer to show PHP execution results.
+    <> no more parsing XML, direct outout PHP-HTML codes in DIV Layer.
+    <> supporting loading image.
+    <> supporting BIG5/Unicode Characters in Ajax output.
+    
+    There is a workable demo within this package, for more information plz check 'index.php'.
+
+    Copyright (c) 1999-2006
+    ------------------------------------------------------------------------
+	  DavidLanz 	   <davidlanz@gmail.com>
+	  
+    - Documentation written and maintained by:
+      DavidLanz
+
+    ------------------------------------------------------------------------
+
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation; either version 2 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program; if not, write to the Free Software
+    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+    In addition, as a special exception, TOMO <groove at spencernetwork dot org> 
+    gives permission to link the code of this program with the FTP library 
+    (or with modified versions of LIB-FTP that use the same license as LIB-FTP), 
+    and distribute linked combinations including the two.  You must obey 
+    the GNU General Public License in all respects for all of the code used 
+    other than LIB-FTP.  If you modify this file, you may extend this exception 
+    to your version of the file, but you are not obligated to do so.  If 
+    you do not wish to do so, delete this exception statement from your version.
+
+    In addition, as a special exception, Edd Dumbill <edd at usefulinc dot com>
+    gives permission to link the code of this program with the XML-RPC library 
+    (or with modified versions of XML-RPC that use the same license as XML-RPC), 
+    and distribute linked combinations including the two.  You must obey 
+    the GNU General Public License in all respects for all of the code used 
+    other than XML-RPC.  If you modify this file, you may extend this exception 
+    to your version of the file, but you are not obligated to do so.  If 
+    you do not wish to do so, delete this exception statement from your version.
+
+
+    Credits:
+    ------------------------------------------------------------------------
+    DavidLanz      <davidlanz@gmail.com>
+    
+

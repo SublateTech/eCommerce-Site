@@ -1,0 +1,79 @@
+/* CSS Document */
+/*Sample CSS to style the two tickers in the demo*/
+
+.cnnclass{
+color: #0000CC;
+width: 100%;
+padding: 5px;
+/* background-color: #F3F3F3; */
+/* border: 1px solid black; */
+margin-bottom: 1em;
+
+filter:progid:DXImageTransform.Microsoft.alpha(opacity=80); /*Specify fade effect in IE. Remove if desired.*/
+-moz-opacity: 0.8; /*Specify fade effect in Firefox. Remove if desired.*/
+}
+
+.cnnclass a{
+color: #0000CC;  
+font-style: normal;  
+font-weight: bold; 
+}
+
+.bbcclass{
+/*width: 400px;*/
+padding: 6px;
+background-color: #FF9966;
+/*border: 1px solid #004A00;*/
+}
+
+.rsstitle { /*shared class for all title elements in an RSS feed*/
+font-style: normal;  
+font-weight: bold;
+color: #0000CC;
+}
+
+.rsstitle a:visited { /*shared class for all title elements in an RSS feed*/
+font-style: normal;  
+font-weight: bold;
+color: #6633FF;}
+
+.rsstitle a:hover { /*shared class for all title elements in an RSS feed*/
+font-style: normal;  
+font-weight: bold;
+color: #cc0066;
+text-decoration: none;}
+
+a.rsstitle:action { /*shared class for all title elements in an RSS feed*/
+font-style: normal;  
+font-weight: bold;
+color: #0000CC;}
+
+
+
+
+.rssdate{ /*shared class for all date elements in an RSS feed*/
+color: gray;
+font-size: 85%;
+}
+
+.rssdescription { /*shared class for all description elements in an RSS feed*/
+text-align: justify;
+font-style: normal;  
+color: #0000CC;
+}
+
+.rssdescription a:visited { /*shared class for all title elements in an RSS feed*/
+font-style: normal;  
+/*font-weight: bold;*/
+color: #0000CC;}
+
+.rssdescription a:hover { /*shared class for all title elements in an RSS feed*/
+font-style: normal;  
+/*font-weight: bold;*/
+color: #cc0066;}
+
+}
+
+
+
+

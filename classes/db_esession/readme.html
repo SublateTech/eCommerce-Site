@@ -1,0 +1,54 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Brief Instructions on DB_eSession Class</TITLE>
+</HEAD>
+<BODY NOF="(MB=(ZeroMargins, 0, 3, 0, 0), L=(ReadmeLayout, 783, 998))" BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#0033CC" VLINK="#990099" ALINK="#FF0000" TOPMARGIN=0 LEFTMARGIN=0 MARGINWIDTH=0 MARGINHEIGHT=0>
+    <CENTER>
+    <TABLE BORDER=0 CELLSPACING=0 CELLPADDING=0 WIDTH=725 NOF=LY>
+        <TR VALIGN=TOP ALIGN=LEFT>
+            <TD WIDTH=4 HEIGHT=7></TD>
+            <TD WIDTH=721></TD>
+        </TR>
+        <TR VALIGN=TOP ALIGN=LEFT>
+            <TD></TD>
+            <TD WIDTH=721>
+                <H2><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Brief Instructions on the DB_eSession PHP class</FONT></H2>
+                <P><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">This is a short introduction to the feature packed DB_eSession PHP class, which allows the storage and management of session data in a MySQL database rather than files (which is PHP's default). It is powerful, designed with security in mind, and easy to utilize. It's free under the </FONT><A HREF="http://www.gnu.org/copyleft/gpl.html" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">GNU GPL</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">.</FONT></P>
+                <P><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Files included in this package:</FONT></P>
+                <OL>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">class.DB_eSession.php - Main class file.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">errors.DB_eSession.php - Error and warning definitions used by class.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">config.DB_eSession.php - Optional configuration file used to pass parameters to class.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">eSessions_table.sql - A text file containing the SQL to create the MySQL sessions table.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">index.php - An example home page of an authentication process.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">login.php - An example page used to login members.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">emplogin.php - An example page used to login employees.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">logout.php - An example page of logging out members.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">members.php - An example page of members restricted area.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">employees.php - An example page of employees restricted area.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">guess.php - A number guessing game showing an example of the use of the class.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">examples.php - View code to get an idea of how to invoke various member functions of the class.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">monitor.php - Session table monitoring and maintenance page (helpful while testing your scripts).</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">manual.html - DB_eSession class manual in HTML.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">license.html - The GPL in HTML.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">readme.html - This brief instructions file.</FONT></LI>
+                </OL>
+                <P><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif"><BR>Basic installation steps (for more details refer to the '</FONT><A HREF="./manual.html#SEC5" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">How to install</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">' section of the manual):</FONT></P>
+                <OL>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Use </FONT><A HREF="http://www.phpmyadmin.net" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">phpMyAdmin</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif"> or similar tool to create a MySQL database, username and password. If you already have these defined/setup then you can use those if you wish and can skip this step.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Use the SQL within the eSessions_table.sql file to create the sessions table (using </FONT><A HREF="http://www.phpmyadmin.net" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">phpMyAdmin</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">).</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Update config.DB_eSessions.php with the name of the </FONT><A HREF="./manual.html#DBHOST" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">local host</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">, </FONT><A HREF="./manual.html#DBNAME" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">database</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">, </FONT><A HREF="./manual.html#DBUSER" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">username</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">, </FONT><A HREF="./manual.html#DBPSWD" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">password</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">, </FONT><A HREF="./manual.html#TBNAME" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">table name</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">, and </FONT><A HREF="./manual.html#IDCOL" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">column names</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif"> if they are different than the supplied defaults.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Install the class.DB_eSession.php, errors.DB_eSession.php, and config.DB_eSession.php in a folder on your web server (and make sure the files and folder have the correct permissions). Optionally, you can install the examples.php, guess.php, monitor.php, and the six login/logout example files to test the class with. Otherwise, you can just start writing your own script utilizing the new class.</FONT></LI>
+                    <LI><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Open up your web browser and type the URL to point to the example PHP file you wish to run. i.e. www.example.com/guess.php or www.example.com/auth/index.php (this is assuming that you created a directory called 'auth' and placed the six login/logut example files and the class related files in it).</FONT></LI>
+                </OL>
+                <P><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">The monitor.php file allows you to view every row in the sessions table, lock/unlock, and delete sessions. It is intended as an aid while developing your scripts. Although it is useful for web masters to monitor session traffic, it is not recommend to place in a public directory (in a production ready site). If you still intend to use it in a public directory, then protect the page (like with a username and password) from easy access. If you're using an Apache server, you can protect the page by setting a </FONT><A HREF="http://httpd.apache.org/docs/howto/htaccess.html" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">.htaccess</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif"> file. Also, read the Apache </FONT><A HREF="http://httpd.apache.org/docs/howto/auth.html" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">authentication</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif"> information page.</FONT></P>
+                <P><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">Don't forget to read the DB_eSession class </FONT><A HREF="./manual.html" TARGET="_blank"><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">manual</FONT></A><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">.<BR>&nbsp;</FONT></P>
+                <P><FONT FACE="Arial,Helvetica,Geneva,Sans-serif,sans-serif">&nbsp;</FONT></P>
+            </TD>
+        </TR>
+    </TABLE>
+    </CENTER>
+</BODY>
+</HTML>

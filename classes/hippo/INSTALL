@@ -1,0 +1,53 @@
+Hippo_Ajax_Form Class
+=====================
+
+Table of Contents:
+  0. Requirements
+  1. Deploy Files
+  2. Yes! Run the Demo
+  
+0. Requirements: 
+------------------------------------------------------------
+<> PHP 4.0.3 or higher (4.3.3 recommended)
+<> ICONV module installed, for unicode chars conversion.
+   (plz review the installation guide from http://tw.php.net/manual/tw/ref.iconv.php)
+   
+   *if you don't wanna install ICONV module now, you may download Tatter Tools function
+    just put 'iconv.php' in the root and follow the script:
+   
+   if (!function_exists("iconv")) { include("iconv.php");}
+   
+
+1. Deploy Files
+------------------------------------------------------------
+<> create a directory of your web root, then put all .php files in the same directory, ex:
+
+/Hippo_Ajax_Form/
+  +-hippo_ajax_form.js
+  +-hippo_ajax_form.php
+  +-hippo_ajax_form_exec.php
+  +-hippo_ajax_form_func.php
+  +-index.php
+  +-loading.gif
+
+<> those files are:
+   /hippo_ajax_form.js                     (JavaScript XML HTTP Request functions)
+   /hippo_ajax_form.php                    (Main Hippo_Ajax_Form class)
+   /hippo_ajax_form_exec.php               (Main PHP execution file, where you parse form datas)
+   /hippo_ajax_form_func.php               (Global Functions)
+   /index.php                              (Demo!)
+   /loading.gif                            (Execution loading image)
+   /COPYING                                (COPYRIGHTS)
+   /INSTALL                                (Installation Guide)
+   /README                                 (What? u're reading this file, remember?)
+
+
+2. Yes! Run the Demo
+------------------------------------------------------------
+http://your.domain.name/Hippo_Ajax_Form/index.php
+
+just put thos files on your site, amd simply run index.php, see ? how easy !!
+
+Yours Sincerely,
+DavidLanz
+
